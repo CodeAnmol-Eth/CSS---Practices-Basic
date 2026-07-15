@@ -1,0 +1,48 @@
+ .flag {
+            width: 900px;
+            height: 400px;
+            background-color: orange;
+            position: relative;
+        }
+
+        .flag>div {
+
+            width: 100%;
+            height: 200px;
+            background-color: white;
+            position: absolute;
+            top: 200px;
+
+        }
+
+        .flag>div>div {
+            width: 150px;
+            height: 150px;
+            color: white;
+            border-radius: 50%;
+            border: 4px solid blue;
+            position: relative;
+            top: 25px;
+            left: 350px;
+
+
+        }
+
+        .green {
+            width: 900px;
+            height: 200px;
+            background-color: green;
+
+        }
+
+        p {
+            margin: 0;
+            font-size: 5rem;
+            text-align: center;
+            color: white;
+        }
+
+        body>div>div>div>p {
+            color: blue;
+            font-size: 3.5rem;
+        }

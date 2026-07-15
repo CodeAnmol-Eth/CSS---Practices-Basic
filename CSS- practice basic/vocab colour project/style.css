@@ -1,0 +1,22 @@
+#red{
+    color: red;
+}
+ 
+#green{
+    color: green;
+}
+#yellow {
+    color: yellow;
+
+}
+#blue{
+    color: blue;
+}
+#orange{
+    color: orange;
+}
+
+*{
+    align-items: center;
+    background-color: antiquewhite;
+}
